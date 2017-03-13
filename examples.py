@@ -41,7 +41,7 @@ QRangeSlider #Head {
     background: url(data/filmstrip.png) repeat;
 }
 QRangeSlider #Span {
-    background: url(data/clip.png) repeat-x;
+    background: url(data/clip.png) repeat;
 }
 QRangeSlider #Tail {
     background: url(data/filmstrip.png) repeat;
@@ -112,7 +112,7 @@ QRangeSlider #Head {
     background: url(data/filmstrip.png) repeat;
 }
 QRangeSlider #Span {
-    background: url(data/clip.png) repeat-x;
+    background: url(data/clip.png) repeat;
 }
 QRangeSlider #Tail {
     background: url(data/filmstrip.png) repeat;
